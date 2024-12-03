@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chris</h1>
+<h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">I'm a front-end web developer</h3>
 
 Hi, I'm a front-end web developer creating engaging responsive interfaces and web apps. I love being creative, solving
